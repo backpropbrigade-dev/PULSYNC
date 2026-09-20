@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: true
+minimumReleaseAgeExclude:
+  - '@next/*'
+  - next
+  - '@lucide/vue@1.43.0'
