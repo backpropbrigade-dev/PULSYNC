@@ -307,8 +307,8 @@ The easiest way to run PULSYNC is with Docker Compose.
 ### Start
 
 ```powershell
-git clone https://github.com/Sai-Harshith-01/feg-hackathon-2026-PULSYNC.git
-cd feg-hackathon-2026-PULSYNC
+git clone https://github.com/backpropbrigade-dev/PULSYNC
+cd PULSYNC
 docker compose up --build
 ```
 
@@ -329,32 +329,6 @@ docker compose down
 
 ---
 
-# 💻 Local Development Without Docker
-
-## Frontend
-
-```powershell
-cd demo
-npm install
-npm run dev
-```
-
-Configure the backend URL when required:
-
-```env
-VITE_API_URL=http://localhost:8000
-```
-
-## Backend
-
-From the repository root:
-
-```powershell
-pip install -r backend/requirements.txt
-uvicorn backend.app.main:app --reload --port 8000
-```
-
----
 
 # 🧪 Testing
 
@@ -434,11 +408,6 @@ PULSYNC is deployed as separate frontend and backend services.
 
 ## 🚀 Live Demo
 
-| Service | URL |
-|---|---|
-| 🌐 **PULSYNC Frontend** | https://feg-hackathon-2026-pulsync-fmn6yx0s6-sais-projects-55ce9fa9.vercel.app/ |
-| ⚙️ **PULSYNC Backend API** | https://feg-hackathon-2026-pulsync.onrender.com/ |
-
 ### Frontend — Vercel
 
 The Vue/Vite frontend is deployed independently through Vercel.
@@ -459,9 +428,6 @@ Vercel
 🌐 Live PULSYNC UI
 ```
 
-**Live frontend:**  
-https://feg-hackathon-2026-pulsync-fmn6yx0s6-sais-projects-55ce9fa9.vercel.app/
-
 ### Backend — Render
 
 The FastAPI backend is containerized using Docker and deployed as a web service on Render.
@@ -481,10 +447,6 @@ Render
    ▼
 FastAPI API
 ```
-
-**Live backend:**  
-https://feg-hackathon-2026-pulsync.onrender.com/
-
 Useful backend endpoints:
 
 - `/docs` — Interactive FastAPI / Swagger API documentation
@@ -576,28 +538,3 @@ Recommendation
 Adaptive User Experience
 ```
 
----
-
-# ⚠️ Current Scope
-
-This repository represents the **FEG Hackathon 2026 Challenge 01 implementation**.
-
-Production-grade concerns such as large-scale distributed storage, authentication infrastructure, advanced model monitoring, and production observability would require additional infrastructure beyond the hackathon scope.
-
----
-
-# 👥 Team
-
-Built for **FEG Hackathon 2026 — Challenge 01**.
-
-**PULSYNC — Turning session behaviour into actionable intelligence.**
-
----
-
-<p align="center">
-
-### ⚡ Observe. Understand. Act.
-
-**PULSYNC**
-
-</p>
