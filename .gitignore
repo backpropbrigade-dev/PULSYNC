@@ -1,0 +1,40 @@
+# Local environment files
+.env
+.env*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+
+# Local databases & run artifacts
+*.db
+*.sqlite3
+*.log
+
+# Large datasets and generated reports
+assets/*.csv
+assets/*.xlsx
+!assets/.gitkeep
+data/processed/*.csv
+!data/processed/.gitkeep
+data/*.csv
+data_validation_report.csv
+data_validation_report.json
+qa_verification_results.json
+
+# Node.js dependencies and build output
+node_modules/
+demo/node_modules/
+demo/.next/
+demo/dist/
+
+# Local archives and editor files
+*.zip
+.DS_Store
