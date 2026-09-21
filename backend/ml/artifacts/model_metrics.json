@@ -1,0 +1,22 @@
+{
+  "abandonment_model": {
+    "test_samples": 29992,
+    "roc_auc": 0.5553973980013742,
+    "pr_auc": 0.04595909328259235,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  "continuation_model": {
+    "test_samples": 29992,
+    "roc_auc": 0.5553973980013742,
+    "pr_auc": 0.9662338927946036
+  },
+  "intent_model": {
+    "test_samples": 28787,
+    "accuracy": 0.9432382672734221,
+    "macro_f1": 0.3192538299872771,
+    "precision": 0.3065538069064252,
+    "recall": 0.33530368824244194
+  }
+}

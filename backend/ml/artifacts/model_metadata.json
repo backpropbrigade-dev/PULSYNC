@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "training_timestamp": "2026-09-09T01:53:00.140375",
+  "feature_list": [
+    "unique_sports_so_far",
+    "unique_matches_so_far",
+    "is_prematch",
+    "is_live",
+    "is_lottery"
+  ],
+  "dataset_date_range": "historical",
+  "training_samples": 139960,
+  "validation_samples": 29992,
+  "test_samples": 29992
+}
