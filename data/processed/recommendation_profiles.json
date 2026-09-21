@@ -1,0 +1,25 @@
+{
+    "demo_profile": {
+        "profile_id": "demo_profile",
+        "sport_affinity": {
+            "Football": 0.92,
+            "Tennis": 0.04,
+            "World Lotteries": 0.02,
+            "Handball": 0.0,
+            "Basketball": 0.0
+        },
+        "event_affinity": {
+            "Hungary Keno 20/80": 0.85,
+            "Poland Multi Multi 20/80": 0.85,
+            "Chelsea - Brighton": 0.85
+        },
+        "content_affinity": {
+            "Team Comparison": 0.9,
+            "Key Statistics": 0.85,
+            "Head-to-Head": 0.8,
+            "Team Form": 0.75,
+            "Match Insights": 0.85
+        },
+        "activity_level": "HIGH"
+    }
+}

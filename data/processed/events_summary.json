@@ -1,0 +1,302 @@
+[
+    {
+        "event_name": "Greece Kino 20/80",
+        "sport": "World Lotteries",
+        "activity_count": 55674,
+        "unique_players": 452
+    },
+    {
+        "event_name": "Italy 10e Lotto 20/90",
+        "sport": "World Lotteries",
+        "activity_count": 52265,
+        "unique_players": 378
+    },
+    {
+        "event_name": "Italy WFL Classico 10/20",
+        "sport": "World Lotteries",
+        "activity_count": 46233,
+        "unique_players": 333
+    },
+    {
+        "event_name": "Poland Multi Multi 20/80",
+        "sport": "World Lotteries",
+        "activity_count": 29170,
+        "unique_players": 167
+    },
+    {
+        "event_name": "Elche - Barcelona",
+        "sport": "Football",
+        "activity_count": 13665,
+        "unique_players": 5564
+    },
+    {
+        "event_name": "Viking - Dinamo Zagreb",
+        "sport": "Football",
+        "activity_count": 13571,
+        "unique_players": 5653
+    },
+    {
+        "event_name": "Dinamo Zagreb - Viking",
+        "sport": "Football",
+        "activity_count": 11830,
+        "unique_players": 5154
+    },
+    {
+        "event_name": "Hajduk Split - Osijek",
+        "sport": "Football",
+        "activity_count": 11707,
+        "unique_players": 5121
+    },
+    {
+        "event_name": "Espanyol - Real Madrid",
+        "sport": "Football",
+        "activity_count": 11651,
+        "unique_players": 5674
+    },
+    {
+        "event_name": "Dinamo Zagreb - Varazdin",
+        "sport": "Football",
+        "activity_count": 11649,
+        "unique_players": 5097
+    },
+    {
+        "event_name": "Rennes - Paris SG",
+        "sport": "Football",
+        "activity_count": 11218,
+        "unique_players": 5196
+    },
+    {
+        "event_name": "Man.City - Bournemouth",
+        "sport": "Football",
+        "activity_count": 11188,
+        "unique_players": 5304
+    },
+    {
+        "event_name": "Italy SuperEnalotto 6/90",
+        "sport": "World Lotteries",
+        "activity_count": 11011,
+        "unique_players": 184
+    },
+    {
+        "event_name": "Istra 1961 - Dinamo Zagreb",
+        "sport": "Football",
+        "activity_count": 10515,
+        "unique_players": 5055
+    },
+    {
+        "event_name": "Man.United - Ipswich",
+        "sport": "Football",
+        "activity_count": 10401,
+        "unique_players": 4794
+    },
+    {
+        "event_name": "Real Madrid - Real Sociedad",
+        "sport": "Football",
+        "activity_count": 10289,
+        "unique_players": 4311
+    },
+    {
+        "event_name": "Lyon - Fenerbahce",
+        "sport": "Football",
+        "activity_count": 10154,
+        "unique_players": 4714
+    },
+    {
+        "event_name": "Rakow Czestochowa - Hajduk Split",
+        "sport": "Football",
+        "activity_count": 9987,
+        "unique_players": 4596
+    },
+    {
+        "event_name": "Aston Villa - Arsenal",
+        "sport": "Football",
+        "activity_count": 9554,
+        "unique_players": 4561
+    },
+    {
+        "event_name": "Dortmund - Hamburger SV",
+        "sport": "Football",
+        "activity_count": 9481,
+        "unique_players": 4432
+    },
+    {
+        "event_name": "Crystal Palace - Man.City",
+        "sport": "Football",
+        "activity_count": 9329,
+        "unique_players": 4564
+    },
+    {
+        "event_name": "Varazdin - Rudes Zagreb",
+        "sport": "Football",
+        "activity_count": 9217,
+        "unique_players": 4412
+    },
+    {
+        "event_name": "Barcelona - Bilbao",
+        "sport": "Football",
+        "activity_count": 9210,
+        "unique_players": 3813
+    },
+    {
+        "event_name": "Chelsea - Brighton",
+        "sport": "Football",
+        "activity_count": 9027,
+        "unique_players": 4546
+    },
+    {
+        "event_name": "Cagliari - Inter Milano",
+        "sport": "Football",
+        "activity_count": 8960,
+        "unique_players": 4670
+    },
+    {
+        "event_name": "Frosinone - Juventus",
+        "sport": "Football",
+        "activity_count": 8931,
+        "unique_players": 4569
+    },
+    {
+        "event_name": "Fenerbahce - Lyon",
+        "sport": "Football",
+        "activity_count": 8884,
+        "unique_players": 4314
+    },
+    {
+        "event_name": "Lille - Paris SG",
+        "sport": "Football",
+        "activity_count": 8881,
+        "unique_players": 4340
+    },
+    {
+        "event_name": "Hajduk Split - Rakow Czestochowa",
+        "sport": "Football",
+        "activity_count": 8691,
+        "unique_players": 4369
+    },
+    {
+        "event_name": "Bayern M. - VFB Stuttgart",
+        "sport": "Football",
+        "activity_count": 8518,
+        "unique_players": 3969
+    },
+    {
+        "event_name": "Torino - AC Milan",
+        "sport": "Football",
+        "activity_count": 8479,
+        "unique_players": 4302
+    },
+    {
+        "event_name": "AC Milan - Venezia",
+        "sport": "Football",
+        "activity_count": 8376,
+        "unique_players": 4473
+    },
+    {
+        "event_name": "Newcastle - Liverpool",
+        "sport": "Football",
+        "activity_count": 8374,
+        "unique_players": 4454
+    },
+    {
+        "event_name": "Celtic - LASK",
+        "sport": "Football",
+        "activity_count": 8319,
+        "unique_players": 4083
+    },
+    {
+        "event_name": "AEK Athens - Levski Sofia",
+        "sport": "Football",
+        "activity_count": 8276,
+        "unique_players": 4316
+    },
+    {
+        "event_name": "Midtjylland - Rijeka",
+        "sport": "Football",
+        "activity_count": 8257,
+        "unique_players": 4252
+    },
+    {
+        "event_name": "Tottenham - Newcastle",
+        "sport": "Football",
+        "activity_count": 8214,
+        "unique_players": 4173
+    },
+    {
+        "event_name": "Arsenal - Coventry",
+        "sport": "Football",
+        "activity_count": 8208,
+        "unique_players": 4018
+    },
+    {
+        "event_name": "Fulham - Chelsea",
+        "sport": "Football",
+        "activity_count": 8206,
+        "unique_players": 3883
+    },
+    {
+        "event_name": "Liverpool - Nottingham",
+        "sport": "Football",
+        "activity_count": 8072,
+        "unique_players": 3962
+    },
+    {
+        "event_name": "Juventus - Parma",
+        "sport": "Football",
+        "activity_count": 7979,
+        "unique_players": 3608
+    },
+    {
+        "event_name": "NK Celje - Slovan Bratislava",
+        "sport": "Football",
+        "activity_count": 7860,
+        "unique_players": 3812
+    },
+    {
+        "event_name": "Barcelona - Vallecano",
+        "sport": "Football",
+        "activity_count": 7681,
+        "unique_players": 3256
+    },
+    {
+        "event_name": "Hajduk Split - Lok.Zagreb",
+        "sport": "Football",
+        "activity_count": 7590,
+        "unique_players": 3917
+    },
+    {
+        "event_name": "HNK Gorica - Hajduk Split",
+        "sport": "Football",
+        "activity_count": 7422,
+        "unique_players": 4194
+    },
+    {
+        "event_name": "Inter Milano - Monza",
+        "sport": "Football",
+        "activity_count": 7315,
+        "unique_players": 3592
+    },
+    {
+        "event_name": "Lyon - Le Havre",
+        "sport": "Football",
+        "activity_count": 7253,
+        "unique_players": 3951
+    },
+    {
+        "event_name": "Monaco - Marseille",
+        "sport": "Football",
+        "activity_count": 7250,
+        "unique_players": 3720
+    },
+    {
+        "event_name": "Slovan Bratislava - NK Celje",
+        "sport": "Football",
+        "activity_count": 7191,
+        "unique_players": 3695
+    },
+    {
+        "event_name": "Genoa - Napoli",
+        "sport": "Football",
+        "activity_count": 7183,
+        "unique_players": 3919
+    }
+]

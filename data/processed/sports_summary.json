@@ -1,0 +1,52 @@
+[
+    {
+        "sport": "Football",
+        "activity_count": 2123079,
+        "percentage": 75.19
+    },
+    {
+        "sport": "World Lotteries",
+        "activity_count": 290684,
+        "percentage": 10.29
+    },
+    {
+        "sport": "Tennis",
+        "activity_count": 251653,
+        "percentage": 8.91
+    },
+    {
+        "sport": "Baseball",
+        "activity_count": 37353,
+        "percentage": 1.32
+    },
+    {
+        "sport": "Basketball",
+        "activity_count": 27344,
+        "percentage": 0.97
+    },
+    {
+        "sport": "Ice Hockey",
+        "activity_count": 17899,
+        "percentage": 0.63
+    },
+    {
+        "sport": "eFootball",
+        "activity_count": 17408,
+        "percentage": 0.62
+    },
+    {
+        "sport": "Handball",
+        "activity_count": 11303,
+        "percentage": 0.4
+    },
+    {
+        "sport": "Table tennis",
+        "activity_count": 8445,
+        "percentage": 0.3
+    },
+    {
+        "sport": "Volleyball",
+        "activity_count": 8011,
+        "percentage": 0.28
+    }
+]

@@ -1,0 +1,64 @@
+{
+    "profile_id": "demo_profile",
+    "profile_source": "FEG historical behavioral profile",
+    "activity_level": "HIGH",
+    "preferred_sport": "Football",
+    "top_sports": [
+        {
+            "sport": "Football",
+            "percentage": 92.3
+        },
+        {
+            "sport": "Tennis",
+            "percentage": 4.5
+        },
+        {
+            "sport": "World Lotteries",
+            "percentage": 2.3
+        },
+        {
+            "sport": "Handball",
+            "percentage": 0.2
+        },
+        {
+            "sport": "Basketball",
+            "percentage": 0.2
+        }
+    ],
+    "top_events": [
+        "Hungary Keno 20/80",
+        "Poland Multi Multi 20/80",
+        "Chelsea - Brighton"
+    ],
+    "historical_activity": 7643,
+    "preferredSport": "Football",
+    "activityLevel": "HIGH",
+    "sportsInterest": [
+        {
+            "sport": "Football",
+            "percentage": 92.3
+        },
+        {
+            "sport": "Tennis",
+            "percentage": 4.5
+        },
+        {
+            "sport": "World Lotteries",
+            "percentage": 2.3
+        },
+        {
+            "sport": "Handball",
+            "percentage": 0.2
+        },
+        {
+            "sport": "Basketball",
+            "percentage": 0.2
+        }
+    ],
+    "topEvents": [
+        "Hungary Keno 20/80",
+        "Poland Multi Multi 20/80",
+        "Chelsea - Brighton"
+    ],
+    "historicalActivity": 7643
+}

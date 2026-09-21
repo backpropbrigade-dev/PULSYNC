@@ -1,0 +1,436 @@
+{
+  "dataset": {
+    "name": "FEG SB_Player Historical Reconstructed Dataset",
+    "records": 3005499,
+    "players": 15738,
+    "sessions": 99504,
+    "date_start": "2026-08-16",
+    "date_end": "2026-08-31",
+    "unique_sports": 48,
+    "inactivity_threshold_min": 30,
+    "session_type": "Reconstructed Historical Sessions",
+    "data_quality_score": 98.5
+  },
+  "session_health": {
+    "total_sessions": 99504,
+    "active_players": 15738,
+    "average_duration_sec": 428.5,
+    "actions_per_session": 24.8,
+    "information_interactions_per_session": 18.2,
+    "session_completion_rate": 84.6,
+    "abandonment_rate": 2.6,
+    "friction_score_avg": 24.2,
+    "session_quality_avg": 78.4,
+    "funnel": [
+      {
+        "stage": "1. Session Start",
+        "count": 99504,
+        "rate_pct": 100.0
+      },
+      {
+        "stage": "2. Sports & Match Exploration",
+        "count": 99504,
+        "rate_pct": 100.0
+      },
+      {
+        "stage": "3. Information Engagement",
+        "count": 97434,
+        "rate_pct": 97.9
+      },
+      {
+        "stage": "4. Transaction Intent Expression",
+        "count": 95000,
+        "rate_pct": 95.5
+      },
+      {
+        "stage": "5. Value-Seeking Transition",
+        "count": 3220,
+        "rate_pct": 3.2
+      },
+      {
+        "stage": "6. 7-Day Return / Re-Engagement",
+        "count": 82937,
+        "rate_pct": 83.4
+      }
+    ],
+    "daily_trends": [
+      {
+        "date": "2026-08-16",
+        "sessions": 6388,
+        "active_players": 6388,
+        "value_seeking_sessions": 174,
+        "respect_exit_sessions": 175,
+        "abandonment_rate": 2.7,
+        "return_7d_rate": 92.2
+      },
+      {
+        "date": "2026-08-17",
+        "sessions": 4281,
+        "active_players": 4281,
+        "value_seeking_sessions": 147,
+        "respect_exit_sessions": 93,
+        "abandonment_rate": 2.2,
+        "return_7d_rate": 95.0
+      },
+      {
+        "date": "2026-08-18",
+        "sessions": 6036,
+        "active_players": 6036,
+        "value_seeking_sessions": 494,
+        "respect_exit_sessions": 230,
+        "abandonment_rate": 3.8,
+        "return_7d_rate": 91.9
+      },
+      {
+        "date": "2026-08-19",
+        "sessions": 5290,
+        "active_players": 5290,
+        "value_seeking_sessions": 199,
+        "respect_exit_sessions": 96,
+        "abandonment_rate": 1.8,
+        "return_7d_rate": 94.0
+      },
+      {
+        "date": "2026-08-20",
+        "sessions": 6717,
+        "active_players": 6717,
+        "value_seeking_sessions": 127,
+        "respect_exit_sessions": 178,
+        "abandonment_rate": 2.6,
+        "return_7d_rate": 92.2
+      },
+      {
+        "date": "2026-08-21",
+        "sessions": 5645,
+        "active_players": 5645,
+        "value_seeking_sessions": 177,
+        "respect_exit_sessions": 134,
+        "abandonment_rate": 2.4,
+        "return_7d_rate": 93.1
+      },
+      {
+        "date": "2026-08-22",
+        "sessions": 7552,
+        "active_players": 7552,
+        "value_seeking_sessions": 167,
+        "respect_exit_sessions": 151,
+        "abandonment_rate": 2.0,
+        "return_7d_rate": 91.3
+      },
+      {
+        "date": "2026-08-23",
+        "sessions": 7457,
+        "active_players": 7457,
+        "value_seeking_sessions": 143,
+        "respect_exit_sessions": 168,
+        "abandonment_rate": 2.3,
+        "return_7d_rate": 90.8
+      },
+      {
+        "date": "2026-08-24",
+        "sessions": 4973,
+        "active_players": 4973,
+        "value_seeking_sessions": 188,
+        "respect_exit_sessions": 104,
+        "abandonment_rate": 2.1,
+        "return_7d_rate": 94.6
+      },
+      {
+        "date": "2026-08-25",
+        "sessions": 5325,
+        "active_players": 5325,
+        "value_seeking_sessions": 242,
+        "respect_exit_sessions": 127,
+        "abandonment_rate": 2.4,
+        "return_7d_rate": 93.9
+      },
+      {
+        "date": "2026-08-26",
+        "sessions": 6614,
+        "active_players": 6614,
+        "value_seeking_sessions": 300,
+        "respect_exit_sessions": 298,
+        "abandonment_rate": 4.5,
+        "return_7d_rate": 89.4
+      },
+      {
+        "date": "2026-08-27",
+        "sessions": 6774,
+        "active_players": 6774,
+        "value_seeking_sessions": 162,
+        "respect_exit_sessions": 240,
+        "abandonment_rate": 3.5,
+        "return_7d_rate": 87.3
+      },
+      {
+        "date": "2026-08-28",
+        "sessions": 5869,
+        "active_players": 5869,
+        "value_seeking_sessions": 188,
+        "respect_exit_sessions": 117,
+        "abandonment_rate": 2.0,
+        "return_7d_rate": 88.6
+      },
+      {
+        "date": "2026-08-29",
+        "sessions": 7615,
+        "active_players": 7615,
+        "value_seeking_sessions": 164,
+        "respect_exit_sessions": 239,
+        "abandonment_rate": 3.1,
+        "return_7d_rate": 79.5
+      },
+      {
+        "date": "2026-08-30",
+        "sessions": 7062,
+        "active_players": 7062,
+        "value_seeking_sessions": 154,
+        "respect_exit_sessions": 104,
+        "abandonment_rate": 1.5,
+        "return_7d_rate": 64.6
+      },
+      {
+        "date": "2026-08-31",
+        "sessions": 5906,
+        "active_players": 5906,
+        "value_seeking_sessions": 194,
+        "respect_exit_sessions": 140,
+        "abandonment_rate": 2.4,
+        "return_7d_rate": 0.0
+      }
+    ]
+  },
+  "matrix_3x3": [
+    {
+      "transaction_intent": "HIGH",
+      "information_interest": "LOW",
+      "sessions": 1334,
+      "players": 397,
+      "session_share": 1.3,
+      "player_share": 2.5,
+      "return_7d_rate": 85.2,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "HIGH",
+      "information_interest": "MEDIUM",
+      "sessions": 2624,
+      "players": 1505,
+      "session_share": 2.6,
+      "player_share": 9.6,
+      "return_7d_rate": 85.4,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "HIGH",
+      "information_interest": "HIGH",
+      "sessions": 42487,
+      "players": 7939,
+      "session_share": 42.7,
+      "player_share": 50.4,
+      "return_7d_rate": 89.6,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "MEDIUM",
+      "information_interest": "LOW",
+      "sessions": 2927,
+      "players": 1564,
+      "session_share": 2.9,
+      "player_share": 9.9,
+      "return_7d_rate": 80.7,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "MEDIUM",
+      "information_interest": "MEDIUM",
+      "sessions": 34859,
+      "players": 11285,
+      "session_share": 35.0,
+      "player_share": 71.7,
+      "return_7d_rate": 79.0,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "MEDIUM",
+      "information_interest": "HIGH",
+      "sessions": 7088,
+      "players": 4378,
+      "session_share": 7.1,
+      "player_share": 27.8,
+      "return_7d_rate": 82.8,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "LOW",
+      "information_interest": "LOW",
+      "sessions": 2594,
+      "players": 1790,
+      "session_share": 2.6,
+      "player_share": 11.4,
+      "return_7d_rate": 64.6,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "LOW",
+      "information_interest": "MEDIUM",
+      "sessions": 2371,
+      "players": 1781,
+      "session_share": 2.4,
+      "player_share": 11.3,
+      "return_7d_rate": 70.0,
+      "is_pulsync_opportunity": false
+    },
+    {
+      "transaction_intent": "LOW",
+      "information_interest": "HIGH",
+      "sessions": 3220,
+      "players": 2403,
+      "session_share": 3.2,
+      "player_share": 15.3,
+      "return_7d_rate": 74.4,
+      "is_pulsync_opportunity": true
+    }
+  ],
+  "segments": {
+    "VALUE_SEEKING": {
+      "name": "Value Seeking",
+      "sessions": 3220,
+      "players": 2403,
+      "session_share": 3.2,
+      "player_share": 15.3,
+      "return_1d_rate": 49.7,
+      "return_3d_rate": 66.1,
+      "return_7d_rate": 74.4,
+      "subsequent_session_rate": 76.1,
+      "subsequent_stake_rate": 76.1,
+      "historical_stake_exposure": 62790.0,
+      "average_original_stake_eur": 12.6,
+      "average_subsequent_stake_eur": 24.5
+    },
+    "TRANSACTION_FOCUSED": {
+      "name": "Transaction Focused",
+      "sessions": 46445,
+      "players": 8459,
+      "session_share": 46.7,
+      "player_share": 53.7,
+      "return_1d_rate": 76.1,
+      "return_3d_rate": 86.2,
+      "return_7d_rate": 89.2,
+      "subsequent_session_rate": 89.6,
+      "subsequent_stake_rate": 89.6,
+      "historical_stake_exposure": 13322367.5,
+      "average_original_stake_eur": 185.34,
+      "average_subsequent_stake_eur": 24.5
+    },
+    "INFORMATION_FOCUSED": {
+      "name": "Information Focused",
+      "sessions": 7088,
+      "players": 4378,
+      "session_share": 7.1,
+      "player_share": 27.8,
+      "return_1d_rate": 61.8,
+      "return_3d_rate": 77.3,
+      "return_7d_rate": 82.8,
+      "subsequent_session_rate": 83.7,
+      "subsequent_stake_rate": 83.7,
+      "historical_stake_exposure": 623688.0,
+      "average_original_stake_eur": 56.86,
+      "average_subsequent_stake_eur": 24.5
+    },
+    "RESPECT_EXIT": {
+      "name": "Respect Exit",
+      "sessions": 2594,
+      "players": 1790,
+      "session_share": 2.6,
+      "player_share": 11.4,
+      "return_1d_rate": 36.0,
+      "return_3d_rate": 55.1,
+      "return_7d_rate": 64.6,
+      "subsequent_session_rate": 66.9,
+      "subsequent_stake_rate": 66.9,
+      "historical_stake_exposure": 21690.5,
+      "average_original_stake_eur": 5.4,
+      "average_subsequent_stake_eur": 24.5
+    },
+    "LOW_ENGAGEMENT": {
+      "name": "Low Engagement",
+      "sessions": 2371,
+      "players": 1781,
+      "session_share": 2.4,
+      "player_share": 11.3,
+      "return_1d_rate": 43.4,
+      "return_3d_rate": 62.3,
+      "return_7d_rate": 70.0,
+      "subsequent_session_rate": 71.4,
+      "subsequent_stake_rate": 71.4,
+      "historical_stake_exposure": 32396.0,
+      "average_original_stake_eur": 8.83,
+      "average_subsequent_stake_eur": 24.5
+    },
+    "MIXED_UNCERTAIN": {
+      "name": "Mixed Uncertain",
+      "sessions": 37786,
+      "players": 11811,
+      "session_share": 38.0,
+      "player_share": 75.0,
+      "return_1d_rate": 56.3,
+      "return_3d_rate": 72.3,
+      "return_7d_rate": 79.1,
+      "subsequent_session_rate": 80.3,
+      "subsequent_stake_rate": 80.3,
+      "historical_stake_exposure": 1947998.0,
+      "average_original_stake_eur": 33.31,
+      "average_subsequent_stake_eur": 24.5
+    }
+  },
+  "historical_replay": {
+    "value_seeking": {
+      "sessions": 3220,
+      "players": 2403,
+      "return_1d_rate": 49.7,
+      "return_3d_rate": 66.1,
+      "return_7d_rate": 74.4,
+      "subsequent_session_rate": 76.1,
+      "subsequent_stake_rate": 76.1,
+      "avg_time_to_return_days": 1.0
+    },
+    "comparison_cohort": {
+      "name": "RESPECT_EXIT / Abandoned-Like Proxy",
+      "sessions": 2594,
+      "players": 1790,
+      "return_1d_rate": 36.0,
+      "return_3d_rate": 55.1,
+      "return_7d_rate": 64.6,
+      "subsequent_session_rate": 66.9,
+      "subsequent_stake_rate": 66.9,
+      "avg_time_to_return_days": 1.0
+    },
+    "observed_difference_pp": 9.9,
+    "relative_difference_pct": 15.3,
+    "confidence_interval_95": [
+      7.5,
+      12.2
+    ],
+    "z_statistic": 8.166,
+    "p_value": "< 0.001",
+    "statistically_significant": true,
+    "average_subsequent_stake_eur": 24.5,
+    "evidence_type": "Historical Replay (Observed Correlation - not causal)"
+  },
+  "methodology": {
+    "session_definition": "30-minute inactivity threshold on player event stream",
+    "session_type": "Reconstructed Historical Sessions (Not native production telemetry)",
+    "information_interest_proxy": "Derived from unique matches/sports explored relative to action frequency. Labeled: Historical Information-Interest Proxy.",
+    "target_segment_definition": "LOW Transaction Intent + HIGH Information Interest Proxy = VALUE_SEEKING",
+    "comparison_cohort": "LOW Transaction Intent + LOW Information Interest Proxy = RESPECT_EXIT / Abandoned-Like Proxy",
+    "return_windows": [
+      "1-Day",
+      "3-Day",
+      "7-Day"
+    ],
+    "statistical_test": "Two-proportion Z-test with 95% Confidence Interval",
+    "causal_claim": false,
+    "causal_disclaimer": "Historical replay identifies statistical association and observed correlation; it does NOT establish causal impact. Causal validation requires controlled dual-arm A/B experimentation."
+  }
+}

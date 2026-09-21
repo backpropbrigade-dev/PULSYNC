@@ -1,0 +1,9 @@
+{
+    "source": "assets/SB_Player.csv",
+    "processed_at": "2026-09-08T11:55:52.542472Z",
+    "session_type": "synthetic_reconstructed",
+    "session_gap_minutes": 30,
+    "native_session_id_available": false,
+    "page_telemetry_available": false,
+    "metadata_available": false
+}

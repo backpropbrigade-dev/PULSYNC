@@ -1,0 +1,22 @@
+{
+    "dataset_name": "SB_Player",
+    "total_records": 3005499,
+    "date_range": {
+        "from": "2026-08-16",
+        "to": "2026-08-31"
+    },
+    "unique_players": 15738,
+    "unique_sports": 48,
+    "unique_events": 30327,
+    "data_quality": {
+        "duplicate_rows": 0,
+        "missing_player_id": 181861,
+        "data_quality_score": 98.5
+    },
+    "data_foundation": {
+        "records_formatted": "3.0M+",
+        "sports_count": 48,
+        "events_count": 30327,
+        "quality_rating": "98.5 / 100"
+    }
+}
